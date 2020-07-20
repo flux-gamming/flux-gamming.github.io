@@ -1,0 +1,8 @@
+title: Flux-gamming.GitHub.io
+description: Flux Gamming Site
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
